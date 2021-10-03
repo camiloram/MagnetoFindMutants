@@ -1,0 +1,11 @@
+co\com\magneto\magnetofindmutants\business\exception\RequestValidationException.class
+co\com\magneto\magnetofindmutants\business\BusinessService.class
+co\com\magneto\magnetofindmutants\business\RegistryDna.class
+co\com\magneto\magnetofindmutants\business\constants\EError.class
+co\com\magneto\magnetofindmutants\business\validation\RequestMutantValidator.class
+co\com\magneto\magnetofindmutants\business\exception\BusinessException.class
+co\com\magneto\magnetofindmutants\business\DnaRequest.class
+co\com\magneto\magnetofindmutants\business\IBusiness.class
+co\com\magneto\magnetofindmutants\rest\ApplicationConfig.class
+co\com\magneto\magnetofindmutants\rest\FindMutantsResource.class
+co\com\magneto\magnetofindmutants\business\StatsResponse.class
